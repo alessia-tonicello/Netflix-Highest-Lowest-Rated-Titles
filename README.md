@@ -10,6 +10,6 @@ This project analyzes the highest and lowest rated titles on Netflix. By process
 ## Technologies Used
 - **Python**: The primary language used for analysis.
 - **Pandas**: For data manipulation and analysis.
-- **Matplotlib** and **Seaborn**: For data visualization.
+- **Matplotlib**: For data visualization.
 - **Jupyter Notebook**: For an interactive environment to run and display code.
 
