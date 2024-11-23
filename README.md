@@ -18,23 +18,23 @@ The dataset used for this project includes:
 The dataset is publicly available at Kaggle.com
 
 ## Methodology 
-1. ## Data Loading and Exploration
+1. Data Loading and Exploration
    Imported the dataset into a Pandas DataFrame.
    Inspected data types, missing values, and basic statistics.
    
-2. ##Data Cleaning
+2. Data Cleaning
    Removed titles with missing or invalid ratings.
 
-3. ## Data Analysis
+3. Data Analysis
    Sorted titles based on ratings.
    Extracted the top 10 highest-rated and 10 lowest-rated titles.
 
-4. ## Visualization
+4. Visualization
    Used Matplotlib to visualize the data.
    Created horizontal bar charts to display the results.
    Highlighted insights such as popular genres among highly-rated titles.
 
-6. ## Insights
+6. Insights
    Interpreted the findings to understand the characteristics of highly-rated vs. least-rated titles.
 
 
