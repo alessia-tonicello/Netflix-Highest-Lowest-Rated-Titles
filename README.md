@@ -42,10 +42,10 @@ The dataset is publicly available at Kaggle.com
    - Ensure the file Netflix_Engagement.csv is located in the same folder as analyze_netflix_ratings.py (or update the file path in the script).
 
 2. Install Python Libraries:
-   - You only need Python installed with the pandas library. Install it with: 'pip install pandas'
+   - You only need Python installed with the pandas library. Install it with: --> ```pip install pandas```
 
 3. Run the Script:
-   - Use the following command in your terminal to execute the analysis: 'python analyze_netflix_ratings.py'
+   - Use the following command in your terminal to execute the analysis: --> ```python analyze_netflix_ratings.py```
 
 4. View the Output:
    - The script will display the top 10 highest-rated and 10 lowest-rated Netflix titles directly in the terminal. 
