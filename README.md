@@ -19,15 +19,15 @@ The dataset is publicly available at Kaggle.com
 
 ## Methodology 
 1. Data Loading and Exploration
-   Imported the dataset into a Pandas DataFrame.
-   Inspected data types, missing values, and basic statistics.
+   - Imported the dataset into a Pandas DataFrame.
+   - Inspected data types, missing values, and basic statistics.
    
 2. Data Cleaning
-   Removed titles with missing or invalid ratings.
+   - Removed titles with missing or invalid ratings.
 
 3. Data Analysis
-   Sorted titles based on ratings.
-   Extracted the top 10 highest-rated and 10 lowest-rated titles.
+   - Sorted titles based on ratings.
+   - Extracted the top 10 highest-rated and 10 lowest-rated titles.
 
 4. Visualization
    Used Matplotlib to visualize the data.
