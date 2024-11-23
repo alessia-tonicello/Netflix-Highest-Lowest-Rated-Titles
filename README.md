@@ -30,12 +30,11 @@ The dataset is publicly available at Kaggle.com
    - Extracted the top 10 highest-rated and 10 lowest-rated titles.
 
 4. Visualization
-   Used Matplotlib to visualize the data.
-   Created horizontal bar charts to display the results.
-   Highlighted insights such as popular genres among highly-rated titles.
+   - Used Matplotlib to visualize the data.
+   - Created horizontal bar charts to display the results.
 
-6. Insights
-   Interpreted the findings to understand the characteristics of highly-rated vs. least-rated titles.
+5. Insights
+   - Interpreted the findings to understand the characteristics of highly-rated vs. least-rated titles.
 
 
 ## Usage
